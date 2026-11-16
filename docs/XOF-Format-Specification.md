@@ -1,5 +1,7 @@
 # XOF — Xiangqi Open Format
 
+**English** | [简体中文](XOF-Format-Specification.zh-CN.md) | [Tiếng Việt](XOF-Format-Specification.vi.md)
+
 **Specification, version 1.0 (2026-11-16)**
 
 XOF is a plain-text file format for storing Xiangqi (Chinese Chess) games. It covers the
