@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    XOFWorker: a library for reading/writing the XOF Xiangqi game file format.
+    A STANDALONE project, published for public use — it does not depend on any
+    SuperXiangQi module, uses only System.*, and runs on every platform (net9.0).
+  -->
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>XOFWorker</RootNamespace>
+    <AssemblyName>XOFWorker</AssemblyName>
+  </PropertyGroup>
+
+</Project>
