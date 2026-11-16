@@ -413,7 +413,7 @@ move that has variations, write each variation as `[VARIANT`, its moves (recursi
 
 ### 4.1 Reference implementation: XOFWorker (C#)
 
-**XOFWorker** is the open-source C# (.NET) library that SuperXiangQi uses to read and write
+**XOFWorker** is the open-source C# (.NET) library that [SuperXiangQi](https://superxiangqi.appsixtyone.com/) uses to read and write
 XOF:
 
 > **https://github.com/KevinDev166/XOFWorker**
